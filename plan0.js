@@ -1,1 +1,0 @@
-alert('no plan function here');

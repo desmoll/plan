@@ -1,0 +1,12 @@
+.hidden {
+    display: none
+}
+
+.nothidden {
+    background-color: white;
+}
+
+.log {
+    margin-top: 15px;
+    width: 400px;
+}
